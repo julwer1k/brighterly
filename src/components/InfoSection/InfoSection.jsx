@@ -7,7 +7,7 @@ export const InfoSection = () => {
       <div className="stem__container">
         <div className={style.stem__content}>
           <img
-            src="/images/stem_logo_bureau.jpg"
+            src="/images/stem_logo_bureau.png"
             alt="Logo Bureau"
             className={style.stem__logo}
           />

@@ -46,7 +46,7 @@ export const Hero = () => {
 
           <div className={style.hero__imageBox}>
             <img
-              src="/images/hero_image_boy.jpg"
+              src="/images/hero_image_boy.png"
               alt="The boy's picture in the main section"
               className={style.hero__image}
             />

@@ -9,7 +9,7 @@ export const Notification = () => {
       setIsVisible(false);
     }, 3000);
 
-    return () => clearTimeout(timer); // Очистка таймера при размонтировании компонента
+    return () => clearTimeout(timer);
   }, []);
 
   if (!isVisible) {
